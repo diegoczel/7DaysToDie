@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="zDCS20_6modslots" />
+		<Description value="Increase the mod slots in the items for 1, 2, 3, 4, 5, 6" />
+		<Author value="Diego Czel Stepanha" />
+		<Version value="A20" />
+		<Website value="" />
+	</ModInfo>
+</xml>

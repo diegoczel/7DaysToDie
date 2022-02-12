@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="DCS20_ReduceQuestPerTier" />
+		<Description value="Reduce amount of quest that need for upgrade tier" />
+		<Author value="Diego Czel Stepanha" />
+		<Version value="A20" />
+		<Website value="" />
+	</ModInfo>
+</xml>

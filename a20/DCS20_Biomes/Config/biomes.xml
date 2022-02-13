@@ -429,9 +429,8 @@
 				<decoration type="prefab" name="deco_shale_vein" checkresource="-7" onslopes="true" prob=".00157" rotatemax="3"/>
 			</decorations>
 		</subbiome>	
-	</insertAfter>
-
-	<subbiome prob="0.3"> <!-- trees -->
+		
+		<subbiome prob="0.3"> <!-- trees -->
 			<layers>
 				<layer depth="2" blockname="terrBurntForestGround"/> 
 				<layer depth="2" blockname="terrDirt"/>
@@ -450,6 +449,7 @@
 				<decoration type="block" blockname="treeDeadTree02" prob="0.0006" rotatemax="7"/>
 			</decorations>
 		</subbiome>	
+		
 	</insertAfter>
 
 	<set xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/layers/layer[@blockname='terrStone']/resource[@blockname='terrOreIron']/@prob">0.0</set>

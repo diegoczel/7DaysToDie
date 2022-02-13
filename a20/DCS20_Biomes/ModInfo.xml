@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="DCS20_Biomes" />
+		<Description value="Reduce amount of items in biomes for better FPS. Alter spawn of ores." />
+		<Author value="Diego Czel Stepanha" />
+		<Version value="A20" />
+		<Website value="" />
+	</ModInfo>
+</xml>

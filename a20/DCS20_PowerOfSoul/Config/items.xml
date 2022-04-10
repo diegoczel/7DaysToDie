@@ -1,14 +1,76 @@
 <dcs>
-  <append xpath="/items">
-    <item name="dcsSoul">
-      <property name="CustomIcon" value="dcsSoul"/>
-      <!--<property name="ItemTypeIcon" value="treasure"/>-->
-      <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
-      <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
-      <property name="Material" value="Mglass"/>
-      <property name="Stacknumber" value="10000"/>
-      <property name="SellableToTrader" value="true"/>
-      <property name="Group" value="Resources"/>
-    </item>
-  </append>
+  
+	<append xpath="/items">
+		<item name="dcsSoul"> <!-- dcsSoul -->
+			<property name="CustomIcon" value="dcsSoul"/>
+			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="Mglass"/>
+			<property name="Stacknumber" value="10000"/>
+			<property name="SellableToTrader" value="true"/>
+			<property name="Group" value="Resources"/>
+		</item>
+		
+		<item name="dcsFiveGlasses">
+			<property name="CustomIcon" value=""/>
+			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="Mglass"/>
+			<property name="Stacknumber" value="1"/>
+			<property name="SellableToTrader" value="false"/>
+			<property name="Group" value="Resources"/>
+		</item>
+	</append>
+
+  	<!-- BEGIN Skill points -->
+  	<append xpath="items"> 
+
+    	<!-- + 1 skill -->
+		<item name="dcsSkillPoint1">
+			<property name="Extends" value="questMaster"/>
+				<property name="CustomIcon" value=""/>
+				<!--<property name="DescriptionKey" value="dcsSkillPointDesc"/>-->
+				<property name="Stacknumber" value="1"/>
+				<property name="EconomicValue" value="600"/>
+				<property class="Action0">
+					<property name="QuestGiven" value="dcsSkillPoint1"/>
+					<property name="Delay" value="1.0"/>
+					<property name="Sound_start" value="read_skillbook"/>
+					<property name="Sound_in_head" value="true"/>
+				</property>
+		</item>
+
+		<!-- + 5 skill -->
+		<item name="dcsSkillPoint5">
+			<property name="Extends" value="questMaster"/>
+				<property name="CustomIcon" value=""/>
+				<!--<property name="DescriptionKey" value="dcsSkillPointDesc"/>-->
+				<property name="Stacknumber" value="1"/>
+				<property name="EconomicValue" value="600"/>
+				<property class="Action0">
+					<property name="QuestGiven" value="dcsSkillPoint5"/>
+					<property name="Delay" value="1.0"/>
+					<property name="Sound_start" value="read_skillbook"/>
+					<property name="Sound_in_head" value="true"/>
+				</property>
+		</item>
+
+    	<!-- + 10 skill -->
+		<item name="dcsSkillPoint10">
+			<property name="Extends" value="questMaster"/>
+				<property name="CustomIcon" value=""/>
+				<!--<property name="DescriptionKey" value="dcsSkillPointDesc"/>-->
+				<property name="Stacknumber" value="1"/>
+				<property name="EconomicValue" value="600"/>
+				<property class="Action0">
+					<property name="QuestGiven" value="dcsSkillPoint10"/>
+					<property name="Delay" value="1.0"/>
+					<property name="Sound_start" value="read_skillbook"/>
+					<property name="Sound_in_head" value="true"/>
+				</property>
+		</item>
+
+  	</append>
+ 	<!-- END Skill points -->
+
 </dcs>

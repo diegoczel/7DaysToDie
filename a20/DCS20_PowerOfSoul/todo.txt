@@ -1,0 +1,11 @@
+* test
+    mods stamina, health, super glasses
+
+* disasembly of items
+    example: item + 1 int, disasembly this for digamos 50% materiais.
+
+* mod stamina and health, super glasses
+    * icon
+
+item five glasses
+    * icon

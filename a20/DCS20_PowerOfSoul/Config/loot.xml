@@ -1,88 +1,33 @@
 <dcs>
 
-  <!--
-    dcsModStrength1
-    dcsModIntellect1
-    dcsModFortitude1
-    dcsModAgility1
-    dcsModPerception1
+    <append xpath="/lootcontainers/lootcontainer[@name='zPackReg']">
+        <item name="dcsSoul" count="1,5"/>
+    </append>
 
-    zPackReg
-    zPackStrong
-    zPackBoss
-    <item name="resourceBone" count="5,15" loot_prob_template="low"/>
-  -->
+    <append xpath="/lootcontainers/lootcontainer[@name='zPackStrong']">
+        <item name="dcsSoul" count="5,15"/>
+    </append>
 
-  <append xpath="/lootcontainers/lootcontainer[@name='zPackReg']">
-		<item name="dcsSoul" count="1,5"/>
-    
-    <item name="dcsModStrength1" count="1"/>
-    <item name="dcsModIntellect1" count="1"/>
-    <item name="dcsModFortitude1" count="1"/>
-    <item name="dcsModAgility1" count="1"/>
-    <item name="dcsModPerception1" count="1"/>
+    <append xpath="/lootcontainers/lootcontainer[@name='zPackBoss']">
+        <item name="dcsSoul" count="15,50"/>
+    </append>
 
-    <item name="dcsModStrength2" count="1"/>
-    <item name="dcsModIntellect2" count="1"/>
-    <item name="dcsModFortitude2" count="1"/>
-    <item name="dcsModAgility2" count="1"/>
-    <item name="dcsModPerception2" count="1"/>
-	</append>
+    <append xpath="/lootcontainers/lootgroup[@name='modArmorT1']">
+        <item name="dcsModHealth1" prob=".5"/>
+        <item name="dcsModStamina1" prob=".5"/>
+        <item name="dcsModSuperGlasses1" prob=".5"/>
+    </append>
 
-  <append xpath="/lootcontainers/lootcontainer[@name='zPackStrong']">
-		<item name="dcsSoul" count="5,15"/>
+    <append xpath="/lootcontainers/lootgroup[@name='modArmorT2']">
+        <item name="dcsModHealth2" prob=".5"/>
+        <item name="dcsModStamina2" prob=".5"/>
+        <item name="dcsModSuperGlasses2" prob=".5"/>
+    </append>
 
-    <item name="dcsModStrength3" count="1"/>
-    <item name="dcsModIntellect3" count="1"/>
-    <item name="dcsModFortitude3" count="1"/>
-    <item name="dcsModAgility3" count="1"/>
-    <item name="dcsModPerception3" count="1"/>
-
-    <item name="dcsModStrength4" count="1"/>
-    <item name="dcsModIntellect4" count="1"/>
-    <item name="dcsModFortitude4" count="1"/>
-    <item name="dcsModAgility4" count="1"/>
-    <item name="dcsModPerception4" count="1"/>
-	</append>
-
-  <append xpath="/lootcontainers/lootcontainer[@name='zPackBoss']">
-		<item name="dcsSoul" count="15,50"/>
-
-    <item name="dcsModStrength5" count="1"/>
-    <item name="dcsModIntellect5" count="1"/>
-    <item name="dcsModFortitude5" count="1"/>
-    <item name="dcsModAgility5" count="1"/>
-    <item name="dcsModPerception5" count="1"/>
-
-    <item name="dcsModStrength6" count="1"/>
-    <item name="dcsModIntellect6" count="1"/>
-    <item name="dcsModFortitude6" count="1"/>
-    <item name="dcsModAgility6" count="1"/>
-    <item name="dcsModPerception6" count="1"/>
-	</append>
-
-  <append xpath="/lootcontainers/lootgroup[@name='modArmorT1']">
-		<item name="dcsModStrength1" prob=".5"/>
-    <item name="dcsModIntellect1" prob=".5"/>
-    <item name="dcsModFortitude1" prob=".5"/>
-    <item name="dcsModAgility1" prob=".5"/>
-    <item name="dcsModPerception1" prob=".5"/>
-	</append>
-
-  <append xpath="/lootcontainers/lootgroup[@name='modArmorT2']">
-		<item name="dcsModStrength2" prob=".5"/>
-    <item name="dcsModIntellect2" prob=".5"/>
-    <item name="dcsModFortitude2" prob=".5"/>
-    <item name="dcsModAgility2" prob=".5"/>
-    <item name="dcsModPerception2" prob=".5"/>
-	</append>
-
-  <append xpath="/lootcontainers/lootgroup[@name='modArmorT3']">
-		<item name="dcsModStrength3" prob=".5"/>
-    <item name="dcsModIntellect3" prob=".5"/>
-    <item name="dcsModFortitude3" prob=".5"/>
-    <item name="dcsModAgility3" prob=".5"/>
-    <item name="dcsModPerception3" prob=".5"/>
-	</append>
+    <append xpath="/lootcontainers/lootgroup[@name='modArmorT3']">
+        <item name="dcsModHealth3" prob=".5"/>
+        <item name="dcsModStamina3" prob=".5"/>
+        <item name="dcsModSuperGlasses3" prob=".5"/>
+    </append>
 
 </dcs>

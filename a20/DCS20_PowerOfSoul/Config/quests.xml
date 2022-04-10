@@ -1,0 +1,45 @@
+<dcs>
+
+    <!-- BEGIN skill point -->
+    <append xpath="/quests">
+
+        <quest id="dcsSkillPoint1">
+			<property name="name_key" value="dcsSkillPoint1"/>
+			<property name="subtitle_key" value="dcsSkillPoint1_subtitle"/>
+            <property name="description_key" value="dcsSkillPointDesc" />
+			<property name="icon" value="ui_game_symbol_skills"/>
+			<property name="category_key" value="quest"/>
+			<property name="difficulty" value="veryeasy"/>
+			<property name="offer_key" value="dcsSkillPoint1_offer"/>
+			<property name="shareable" value="false"/>
+			<reward type="SkillPoints" value="1"/>
+		</quest> 
+
+        <quest id="dcsSkillPoint5">
+			<property name="name_key" value="dcsSkillPoint5"/>
+			<property name="subtitle_key" value="dcsSkillPoint5_subtitle"/>
+            <property name="description_key" value="dcsSkillPointDesc" />
+			<property name="icon" value="ui_game_symbol_skills"/>
+			<property name="category_key" value="quest"/>
+			<property name="difficulty" value="veryeasy"/>
+			<property name="offer_key" value="dcsSkillPoint5_offer"/>
+			<property name="shareable" value="false"/>
+			<reward type="SkillPoints" value="5"/>
+		</quest> 
+
+        <quest id="dcsSkillPoint10">
+			<property name="name_key" value="dcsSkillPoint10"/>
+			<property name="subtitle_key" value="dcsSkillPoint10_subtitle"/>
+            <property name="description_key" value="dcsSkillPointDesc" />
+			<property name="icon" value="ui_game_symbol_skills"/>
+			<property name="category_key" value="quest"/>
+			<property name="difficulty" value="veryeasy"/>
+			<property name="offer_key" value="dcsSkillPoint10_offer"/>
+			<property name="shareable" value="false"/>
+			<reward type="SkillPoints" value="10"/>
+		</quest> 
+
+    </append>
+    <!-- end skill point -->
+
+</dcs>

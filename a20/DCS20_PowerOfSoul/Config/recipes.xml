@@ -1,0 +1,301 @@
+<dcs>
+
+	<!--
+		apparelShades 							attPerception		gunRifleT1HuntingRifleParts
+		apparelSkiGoggles 					attAgility			gunHandgunT1PistolParts
+		apparelToughGuySunglasses 	attFortitude		gunMGT1AK47Parts
+		apparelNerdGlasses 					attIntellect		gunBotRoboticsParts
+		apparelCigar 								attStrength			gunShotgunT1DoubleBarrelParts
+	-->
+
+	<append xpath="/recipes"> <!-- BEGIN Cigar - Strength -->
+
+		<recipe name="dcsModStrength1" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="apparelCigar" count="1"/>
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="3"/>
+			<ingredient name="dcsSoul" count="10"/>
+		</recipe>
+
+		<recipe name="dcsModStrength2" count="1" craft_exp_gain="0" craft_time="90" craft_area="workbench"> 
+			<ingredient name="dcsModStrength1" count="1"/>
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="3"/>
+			<ingredient name="dcsSoul" count="15"/>
+		</recipe>
+
+		<recipe name="dcsModStrength3" count="1" craft_exp_gain="0" craft_time="120" craft_area="workbench"> 
+			<ingredient name="dcsModStrength2" count="1"/>
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="3"/>
+			<ingredient name="dcsSoul" count="20"/>
+		</recipe>
+
+		<recipe name="dcsModStrength4" count="1" craft_exp_gain="0" craft_time="150" craft_area="workbench"> 
+			<ingredient name="dcsModStrength3" count="1"/>
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="3"/>
+			<ingredient name="dcsSoul" count="25"/>
+		</recipe>
+
+		<recipe name="dcsModStrength5" count="1" craft_exp_gain="0" craft_time="180" craft_area="workbench"> 
+			<ingredient name="dcsModStrength4" count="1"/>
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="3"/>
+			<ingredient name="dcsSoul" count="30"/>
+		</recipe>
+
+		<recipe name="dcsModStrength6" count="1" craft_exp_gain="0" craft_time="210" craft_area="workbench"> 
+			<ingredient name="dcsModStrength5" count="1"/>
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="3"/>
+			<ingredient name="dcsSoul" count="35"/>
+		</recipe>
+
+		<recipe name="dcsModStrength7" count="1" craft_exp_gain="0" craft_time="240" craft_area="workbench"> 
+			<ingredient name="dcsModStrength6" count="1"/>
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="3"/>
+			<ingredient name="dcsSoul" count="40"/>
+		</recipe>
+
+		<recipe name="dcsModStrength8" count="1" craft_exp_gain="0" craft_time="270" craft_area="workbench"> 
+			<ingredient name="dcsModStrength7" count="1"/>
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="3"/>
+			<ingredient name="dcsSoul" count="45"/>
+		</recipe>
+
+		<recipe name="dcsModStrength9" count="1" craft_exp_gain="0" craft_time="300" craft_area="workbench"> 
+			<ingredient name="dcsModStrength8" count="1"/>
+			<ingredient name="gunShotgunT1DoubleBarrelParts" count="3"/>
+			<ingredient name="dcsSoul" count="50"/>
+		</recipe>
+		
+	</append> <!-- END Cigar - Strength -->
+
+	<append xpath="/recipes"> <!-- BEGIN NerdGlasses - Intellect -->
+
+		<recipe name="dcsModIntellect1" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="apparelNerdGlasses" count="1"/>
+			<ingredient name="gunBotRoboticsParts" count="3"/>
+			<ingredient name="dcsSoul" count="10"/>
+		</recipe>
+
+		<recipe name="dcsModIntellect2" count="1" craft_exp_gain="0" craft_time="90" craft_area="workbench"> 
+			<ingredient name="dcsModIntellect1" count="1"/>
+			<ingredient name="gunBotRoboticsParts" count="3"/>
+			<ingredient name="dcsSoul" count="15"/>
+		</recipe>
+
+		<recipe name="dcsModIntellect3" count="1" craft_exp_gain="0" craft_time="120" craft_area="workbench"> 
+			<ingredient name="dcsModIntellect2" count="1"/>
+			<ingredient name="gunBotRoboticsParts" count="3"/>
+			<ingredient name="dcsSoul" count="20"/>
+		</recipe>
+
+		<recipe name="dcsModIntellect4" count="1" craft_exp_gain="0" craft_time="150" craft_area="workbench"> 
+			<ingredient name="dcsModIntellect3" count="1"/>
+			<ingredient name="gunBotRoboticsParts" count="3"/>
+			<ingredient name="dcsSoul" count="25"/>
+		</recipe>
+
+		<recipe name="dcsModIntellect5" count="1" craft_exp_gain="0" craft_time="180" craft_area="workbench"> 
+			<ingredient name="dcsModIntellect4" count="1"/>
+			<ingredient name="gunBotRoboticsParts" count="3"/>
+			<ingredient name="dcsSoul" count="30"/>
+		</recipe>
+
+		<recipe name="dcsModIntellect6" count="1" craft_exp_gain="0" craft_time="210" craft_area="workbench"> 
+			<ingredient name="dcsModIntellect5" count="1"/>
+			<ingredient name="gunBotRoboticsParts" count="3"/>
+			<ingredient name="dcsSoul" count="35"/>
+		</recipe>
+
+		<recipe name="dcsModIntellect7" count="1" craft_exp_gain="0" craft_time="240" craft_area="workbench"> 
+			<ingredient name="dcsModIntellect6" count="1"/>
+			<ingredient name="gunBotRoboticsParts" count="3"/>
+			<ingredient name="dcsSoul" count="40"/>
+		</recipe>
+
+		<recipe name="dcsModIntellect8" count="1" craft_exp_gain="0" craft_time="270" craft_area="workbench"> 
+			<ingredient name="dcsModIntellect7" count="1"/>
+			<ingredient name="gunBotRoboticsParts" count="3"/>
+			<ingredient name="dcsSoul" count="45"/>
+		</recipe>
+
+		<recipe name="dcsModIntellect9" count="1" craft_exp_gain="0" craft_time="300" craft_area="workbench"> 
+			<ingredient name="dcsModIntellect8" count="1"/>
+			<ingredient name="gunBotRoboticsParts" count="3"/>
+			<ingredient name="dcsSoul" count="50"/>
+		</recipe>
+		
+	</append> <!-- END NerdGlasses - Intellect -->
+
+	<append xpath="/recipes"> <!-- BEGIN apparelToughGuySunglasses Fortitude -->
+
+		<recipe name="dcsModFortitude1" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="apparelToughGuySunglasses" count="1"/>
+			<ingredient name="gunMGT1AK47Parts" count="3"/>
+			<ingredient name="dcsSoul" count="10"/>
+		</recipe>
+
+		<recipe name="dcsModFortitude2" count="1" craft_exp_gain="0" craft_time="90" craft_area="workbench"> 
+			<ingredient name="dcsModFortitude1" count="1"/>
+			<ingredient name="gunMGT1AK47Parts" count="3"/>
+			<ingredient name="dcsSoul" count="15"/>
+		</recipe>
+
+		<recipe name="dcsModFortitude3" count="1" craft_exp_gain="0" craft_time="120" craft_area="workbench"> 
+			<ingredient name="dcsModFortitude2" count="1"/>
+			<ingredient name="gunMGT1AK47Parts" count="3"/>
+			<ingredient name="dcsSoul" count="20"/>
+		</recipe>
+
+		<recipe name="dcsModFortitude4" count="1" craft_exp_gain="0" craft_time="150" craft_area="workbench"> 
+			<ingredient name="dcsModFortitude3" count="1"/>
+			<ingredient name="gunMGT1AK47Parts" count="3"/>
+			<ingredient name="dcsSoul" count="25"/>
+		</recipe>
+
+		<recipe name="dcsModFortitude5" count="1" craft_exp_gain="0" craft_time="180" craft_area="workbench"> 
+			<ingredient name="dcsModFortitude4" count="1"/>
+			<ingredient name="gunMGT1AK47Parts" count="3"/>
+			<ingredient name="dcsSoul" count="30"/>
+		</recipe>
+
+		<recipe name="dcsModFortitude6" count="1" craft_exp_gain="0" craft_time="210" craft_area="workbench"> 
+			<ingredient name="dcsModFortitude5" count="1"/>
+			<ingredient name="gunMGT1AK47Parts" count="3"/>
+			<ingredient name="dcsSoul" count="35"/>
+		</recipe>
+
+		<recipe name="dcsModFortitude7" count="1" craft_exp_gain="0" craft_time="240" craft_area="workbench"> 
+			<ingredient name="dcsModFortitude6" count="1"/>
+			<ingredient name="gunMGT1AK47Parts" count="3"/>
+			<ingredient name="dcsSoul" count="40"/>
+		</recipe>
+
+		<recipe name="dcsModFortitude8" count="1" craft_exp_gain="0" craft_time="270" craft_area="workbench"> 
+			<ingredient name="dcsModFortitude7" count="1"/>
+			<ingredient name="gunMGT1AK47Parts" count="3"/>
+			<ingredient name="dcsSoul" count="45"/>
+		</recipe>
+
+		<recipe name="dcsModFortitude9" count="1" craft_exp_gain="0" craft_time="300" craft_area="workbench"> 
+			<ingredient name="dcsModFortitude8" count="1"/>
+			<ingredient name="gunMGT1AK47Parts" count="3"/>
+			<ingredient name="dcsSoul" count="50"/>			
+		</recipe>
+		
+	</append> <!-- END ToughGuySunglasses - Fortitude -->
+
+	<append xpath="/recipes"> <!-- BEGIN apparelSkiGoggles - Agility -->
+
+		<recipe name="dcsModAgility1" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="apparelSkiGoggles" count="1"/>
+			<ingredient name="gunHandgunT1PistolParts" count="3"/>
+			<ingredient name="dcsSoul" count="10"/>
+		</recipe>
+
+		<recipe name="dcsModAgility2" count="1" craft_exp_gain="0" craft_time="90" craft_area="workbench"> 
+			<ingredient name="dcsModAgility1" count="1"/>
+			<ingredient name="gunHandgunT1PistolParts" count="3"/>
+			<ingredient name="dcsSoul" count="15"/>
+		</recipe>
+
+		<recipe name="dcsModAgility3" count="1" craft_exp_gain="0" craft_time="120" craft_area="workbench"> 
+			<ingredient name="dcsModAgility2" count="1"/>
+			<ingredient name="gunHandgunT1PistolParts" count="3"/>
+			<ingredient name="dcsSoul" count="20"/>
+		</recipe>
+
+		<recipe name="dcsModAgility4" count="1" craft_exp_gain="0" craft_time="150" craft_area="workbench"> 
+			<ingredient name="dcsModAgility3" count="1"/>
+			<ingredient name="gunHandgunT1PistolParts" count="3"/>
+			<ingredient name="dcsSoul" count="25"/>
+		</recipe>
+
+		<recipe name="dcsModAgility5" count="1" craft_exp_gain="0" craft_time="180" craft_area="workbench"> 
+			<ingredient name="dcsModAgility4" count="1"/>
+			<ingredient name="gunHandgunT1PistolParts" count="3"/>
+			<ingredient name="dcsSoul" count="30"/>
+		</recipe>
+
+		<recipe name="dcsModAgility6" count="1" craft_exp_gain="0" craft_time="210" craft_area="workbench"> 
+			<ingredient name="dcsModAgility5" count="1"/>
+			<ingredient name="gunHandgunT1PistolParts" count="3"/>
+			<ingredient name="dcsSoul" count="35"/>
+		</recipe>
+
+		<recipe name="dcsModAgility7" count="1" craft_exp_gain="0" craft_time="240" craft_area="workbench"> 
+			<ingredient name="dcsModAgility6" count="1"/>
+			<ingredient name="gunHandgunT1PistolParts" count="3"/>
+			<ingredient name="dcsSoul" count="40"/>
+		</recipe>
+
+		<recipe name="dcsModAgility8" count="1" craft_exp_gain="0" craft_time="270" craft_area="workbench"> 
+			<ingredient name="dcsModAgility7" count="1"/>
+			<ingredient name="gunHandgunT1PistolParts" count="3"/>
+			<ingredient name="dcsSoul" count="45"/>
+		</recipe>
+
+		<recipe name="dcsModAgility9" count="1" craft_exp_gain="0" craft_time="300" craft_area="workbench"> 
+			<ingredient name="dcsModAgility8" count="1"/>
+			<ingredient name="gunHandgunT1PistolParts" count="3"/>
+			<ingredient name="dcsSoul" count="50"/>
+		</recipe>
+		
+	</append> <!-- END SkiGoggles - Agility -->
+
+	<append xpath="/recipes"> <!-- BEGIN apparelShades - Perception -->
+
+		<recipe name="dcsModPerception1" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="apparelShades" count="1"/>
+			<ingredient name="gunRifleT1HuntingRifleParts" count="3"/>
+			<ingredient name="dcsSoul" count="10"/>
+		</recipe>
+
+		<recipe name="dcsModPerception2" count="1" craft_exp_gain="0" craft_time="90" craft_area="workbench"> 
+			<ingredient name="dcsModPerception1" count="1"/>
+			<ingredient name="gunRifleT1HuntingRifleParts" count="3"/>
+			<ingredient name="dcsSoul" count="15"/>
+		</recipe>
+
+		<recipe name="dcsModPerception3" count="1" craft_exp_gain="0" craft_time="120" craft_area="workbench"> 
+			<ingredient name="dcsModPerception2" count="1"/>
+			<ingredient name="gunRifleT1HuntingRifleParts" count="3"/>
+			<ingredient name="dcsSoul" count="20"/>
+		</recipe>
+
+		<recipe name="dcsModPerception4" count="1" craft_exp_gain="0" craft_time="150" craft_area="workbench"> 
+			<ingredient name="dcsModPerception3" count="1"/>
+			<ingredient name="gunRifleT1HuntingRifleParts" count="3"/>
+			<ingredient name="dcsSoul" count="25"/>
+		</recipe>
+
+		<recipe name="dcsModPerception5" count="1" craft_exp_gain="0" craft_time="180" craft_area="workbench"> 
+			<ingredient name="dcsModPerception4" count="1"/>
+			<ingredient name="gunRifleT1HuntingRifleParts" count="3"/>
+			<ingredient name="dcsSoul" count="30"/>
+		</recipe>
+
+		<recipe name="dcsModPerception6" count="1" craft_exp_gain="0" craft_time="210" craft_area="workbench"> 
+			<ingredient name="dcsModPerception5" count="1"/>
+			<ingredient name="gunRifleT1HuntingRifleParts" count="3"/>
+			<ingredient name="dcsSoul" count="35"/>
+		</recipe>
+
+		<recipe name="dcsModPerception7" count="1" craft_exp_gain="0" craft_time="240" craft_area="workbench"> 
+			<ingredient name="dcsModPerception6" count="1"/>
+			<ingredient name="gunRifleT1HuntingRifleParts" count="3"/>
+			<ingredient name="dcsSoul" count="40"/>
+		</recipe>
+
+		<recipe name="dcsModPerception8" count="1" craft_exp_gain="0" craft_time="270" craft_area="workbench"> 
+			<ingredient name="dcsModPerception7" count="1"/>
+			<ingredient name="gunRifleT1HuntingRifleParts" count="3"/>
+			<ingredient name="dcsSoul" count="45"/>
+		</recipe>
+
+		<recipe name="dcsModPerception9" count="1" craft_exp_gain="0" craft_time="300" craft_area="workbench"> 
+			<ingredient name="dcsModPerception8" count="1"/>
+			<ingredient name="gunRifleT1HuntingRifleParts" count="3"/>
+			<ingredient name="dcsSoul" count="50"/>
+		</recipe>
+		
+	</append> <!-- END SkiGoggles - Shades - Perception -->
+
+</dcs>

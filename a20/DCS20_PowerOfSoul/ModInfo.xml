@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="DCS20_PowerOfSoul" />
+		<Description value="Mod's for increment attributes using power of soul" />
+		<Author value="Diego Czel Stepanha" />
+		<!-- 
+			A20 is version of 7days
+			1 is the year 2022
+			3 is the month march
+			1 is the version
+			0 is the subversion
+		-->
+		<Version value="A20_1.3.1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>

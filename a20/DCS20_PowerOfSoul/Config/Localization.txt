@@ -1,0 +1,143 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+
+dcsSoul,item_modifiers,Mod,,,"Soul",,,,,,,,,,,,,,
+dcsSoulDesc,item_modifiers,Mod,,,"Soul is power. Is used to increase your own power",,,,,,,,,,,,,,
+
+dcsModStrength1,item_modifiers,Mod,,,"Mod Strength + 1",,,,,,,,,,,,,,
+dcsModStrength1Desc,item_modifiers,Mod,,,"This mod increase 1 in attribute Strength.",,,,,,,,,,,,,,
+
+dcsModStrength2,item_modifiers,Mod,,,"Mod Strength + 2",,,,,,,,,,,,,,
+dcsModStrength2Desc,item_modifiers,Mod,,,"This mod increase 2 in attribute Strength.",,,,,,,,,,,,,,
+
+dcsModStrength3,item_modifiers,Mod,,,"Mod Strength + 3",,,,,,,,,,,,,,
+dcsModStrength3Desc,item_modifiers,Mod,,,"This mod increase 3 in attribute Strength.",,,,,,,,,,,,,,
+
+dcsModStrength4,item_modifiers,Mod,,,"Mod Strength + 4",,,,,,,,,,,,,,
+dcsModStrength4Desc,item_modifiers,Mod,,,"This mod increase 4 in attribute Strength.",,,,,,,,,,,,,,
+
+dcsModStrength5,item_modifiers,Mod,,,"Mod Strength + 5",,,,,,,,,,,,,,
+dcsModStrength5Desc,item_modifiers,Mod,,,"This mod increase 5 in attribute Strength.",,,,,,,,,,,,,,
+
+dcsModStrength6,item_modifiers,Mod,,,"Mod Strength + 6",,,,,,,,,,,,,,
+dcsModStrength6Desc,item_modifiers,Mod,,,"This mod increase 6 in attribute Strength.",,,,,,,,,,,,,,
+
+dcsModStrength7,item_modifiers,Mod,,,"Mod Strength + 7",,,,,,,,,,,,,,
+dcsModStrength7Desc,item_modifiers,Mod,,,"This mod increase 7 in attribute Strength.",,,,,,,,,,,,,,
+
+dcsModStrength8,item_modifiers,Mod,,,"Mod Strength + 8",,,,,,,,,,,,,,
+dcsModStrength8Desc,item_modifiers,Mod,,,"This mod increase 8 in attribute Strength.",,,,,,,,,,,,,,
+
+dcsModStrength9,item_modifiers,Mod,,,"Mod Strength + 9",,,,,,,,,,,,,,
+dcsModStrength9Desc,item_modifiers,Mod,,,"This mod increase 9 in attribute Strength.",,,,,,,,,,,,,,
+
+
+dcsModIntellect1,item_modifiers,Mod,,,"Mod Intellect + 1",,,,,,,,,,,,,,
+dcsModIntellect1Desc,item_modifiers,Mod,,,"This mod increase 1 in attribute Intellect.",,,,,,,,,,,,,,
+
+dcsModIntellect2,item_modifiers,Mod,,,"Mod Intellect + 2",,,,,,,,,,,,,,
+dcsModIntellect2Desc,item_modifiers,Mod,,,"This mod increase 2 in attribute Intellect.",,,,,,,,,,,,,,
+
+dcsModIntellect3,item_modifiers,Mod,,,"Mod Intellect + 3",,,,,,,,,,,,,,
+dcsModIntellect3Desc,item_modifiers,Mod,,,"This mod increase 3 in attribute Intellect.",,,,,,,,,,,,,,
+
+dcsModIntellect4,item_modifiers,Mod,,,"Mod Intellect + 4",,,,,,,,,,,,,,
+dcsModIntellect4Desc,item_modifiers,Mod,,,"This mod increase 4 in attribute Intellect.",,,,,,,,,,,,,,
+
+dcsModIntellect5,item_modifiers,Mod,,,"Mod Intellect + 5",,,,,,,,,,,,,,
+dcsModIntellect5Desc,item_modifiers,Mod,,,"This mod increase 5 in attribute Intellect.",,,,,,,,,,,,,,
+
+dcsModIntellect6,item_modifiers,Mod,,,"Mod Intellect + 6",,,,,,,,,,,,,,
+dcsModIntellect6Desc,item_modifiers,Mod,,,"This mod increase 6 in attribute Intellect.",,,,,,,,,,,,,,
+
+dcsModIntellect7,item_modifiers,Mod,,,"Mod Intellect + 7",,,,,,,,,,,,,,
+dcsModIntellect7Desc,item_modifiers,Mod,,,"This mod increase 7 in attribute Intellect.",,,,,,,,,,,,,,
+
+dcsModIntellect8,item_modifiers,Mod,,,"Mod Intellect + 8",,,,,,,,,,,,,,
+dcsModIntellect8Desc,item_modifiers,Mod,,,"This mod increase 8 in attribute Intellect.",,,,,,,,,,,,,,
+
+dcsModIntellect9,item_modifiers,Mod,,,"Mod Intellect + 9",,,,,,,,,,,,,,
+dcsModIntellect9Desc,item_modifiers,Mod,,,"This mod increase 9 in attribute Intellect.",,,,,,,,,,,,,,
+
+
+dcsModAgility1,item_modifiers,Mod,,,"Mod Agility + 1",,,,,,,,,,,,,,
+dcsModAgility1Desc,item_modifiers,Mod,,,"This mod increase 1 in attribute Agility.",,,,,,,,,,,,,,
+
+dcsModAgility2,item_modifiers,Mod,,,"Mod Agility + 2",,,,,,,,,,,,,,
+dcsModAgility2Desc,item_modifiers,Mod,,,"This mod increase 2 in attribute Agility.",,,,,,,,,,,,,,
+
+dcsModAgility3,item_modifiers,Mod,,,"Mod Agility + 3",,,,,,,,,,,,,,
+dcsModAgility3Desc,item_modifiers,Mod,,,"This mod increase 3 in attribute Agility.",,,,,,,,,,,,,,
+
+dcsModAgility4,item_modifiers,Mod,,,"Mod Agility + 4",,,,,,,,,,,,,,
+dcsModAgility4Desc,item_modifiers,Mod,,,"This mod increase 4 in attribute Agility.",,,,,,,,,,,,,,
+
+dcsModAgility5,item_modifiers,Mod,,,"Mod Agility + 5",,,,,,,,,,,,,,
+dcsModAgility5Desc,item_modifiers,Mod,,,"This mod increase 5 in attribute Agility.",,,,,,,,,,,,,,
+
+dcsModAgility6,item_modifiers,Mod,,,"Mod Agility + 6",,,,,,,,,,,,,,
+dcsModAgility6Desc,item_modifiers,Mod,,,"This mod increase 6 in attribute Agility.",,,,,,,,,,,,,,
+
+dcsModAgility7,item_modifiers,Mod,,,"Mod Agility + 7",,,,,,,,,,,,,,
+dcsModAgility7Desc,item_modifiers,Mod,,,"This mod increase 7 in attribute Agility.",,,,,,,,,,,,,,
+
+dcsModAgility8,item_modifiers,Mod,,,"Mod Agility + 8",,,,,,,,,,,,,,
+dcsModAgility8Desc,item_modifiers,Mod,,,"This mod increase 8 in attribute Agility.",,,,,,,,,,,,,,
+
+dcsModAgility9,item_modifiers,Mod,,,"Mod Agility + 9",,,,,,,,,,,,,,
+dcsModAgility9Desc,item_modifiers,Mod,,,"This mod increase 9 in attribute Agility.",,,,,,,,,,,,,,
+
+
+dcsModFortitude1,item_modifiers,Mod,,,"Mod Fortitude + 1",,,,,,,,,,,,,,
+dcsModFortitude1Desc,item_modifiers,Mod,,,"This mod increase 1 in attribute Fortitude.",,,,,,,,,,,,,,
+
+dcsModFortitude2,item_modifiers,Mod,,,"Mod Fortitude + 2",,,,,,,,,,,,,,
+dcsModFortitude2Desc,item_modifiers,Mod,,,"This mod increase 2 in attribute Fortitude.",,,,,,,,,,,,,,
+
+dcsModFortitude3,item_modifiers,Mod,,,"Mod Fortitude + 3",,,,,,,,,,,,,,
+dcsModFortitude3Desc,item_modifiers,Mod,,,"This mod increase 3 in attribute Fortitude.",,,,,,,,,,,,,,
+
+dcsModFortitude4,item_modifiers,Mod,,,"Mod Fortitude + 4",,,,,,,,,,,,,,
+dcsModFortitude4Desc,item_modifiers,Mod,,,"This mod increase 4 in attribute Fortitude.",,,,,,,,,,,,,,
+
+dcsModFortitude5,item_modifiers,Mod,,,"Mod Fortitude + 5",,,,,,,,,,,,,,
+dcsModFortitude5Desc,item_modifiers,Mod,,,"This mod increase 5 in attribute Fortitude.",,,,,,,,,,,,,,
+
+dcsModFortitude6,item_modifiers,Mod,,,"Mod Fortitude + 6",,,,,,,,,,,,,,
+dcsModFortitude6Desc,item_modifiers,Mod,,,"This mod increase 6 in attribute Fortitude.",,,,,,,,,,,,,,
+
+dcsModFortitude7,item_modifiers,Mod,,,"Mod Fortitude + 7",,,,,,,,,,,,,,
+dcsModFortitude7Desc,item_modifiers,Mod,,,"This mod increase 7 in attribute Fortitude.",,,,,,,,,,,,,,
+
+dcsModFortitude8,item_modifiers,Mod,,,"Mod Fortitude + 8",,,,,,,,,,,,,,
+dcsModFortitude8Desc,item_modifiers,Mod,,,"This mod increase 8 in attribute Fortitude.",,,,,,,,,,,,,,
+
+dcsModFortitude9,item_modifiers,Mod,,,"Mod Fortitude + 9",,,,,,,,,,,,,,
+dcsModFortitude9Desc,item_modifiers,Mod,,,"This mod increase 9 in attribute Fortitude.",,,,,,,,,,,,,,
+
+
+dcsModPerception1,item_modifiers,Mod,,,"Mod Perception + 1",,,,,,,,,,,,,,
+dcsModPerception1Desc,item_modifiers,Mod,,,"This mod increase 1 in attribute Perception.",,,,,,,,,,,,,,
+
+dcsModPerception2,item_modifiers,Mod,,,"Mod Perception + 2",,,,,,,,,,,,,,
+dcsModPerception2Desc,item_modifiers,Mod,,,"This mod increase 2 in attribute Perception.",,,,,,,,,,,,,,
+
+dcsModPerception3,item_modifiers,Mod,,,"Mod Perception + 3",,,,,,,,,,,,,,
+dcsModPerception3Desc,item_modifiers,Mod,,,"This mod increase 3 in attribute Perception.",,,,,,,,,,,,,,
+
+dcsModPerception4,item_modifiers,Mod,,,"Mod Perception + 4",,,,,,,,,,,,,,
+dcsModPerception4Desc,item_modifiers,Mod,,,"This mod increase 4 in attribute Perception.",,,,,,,,,,,,,,
+
+dcsModPerception5,item_modifiers,Mod,,,"Mod Perception + 5",,,,,,,,,,,,,,
+dcsModPerception5Desc,item_modifiers,Mod,,,"This mod increase 5 in attribute Perception.",,,,,,,,,,,,,,
+
+dcsModPerception6,item_modifiers,Mod,,,"Mod Perception + 6",,,,,,,,,,,,,,
+dcsModPerception6Desc,item_modifiers,Mod,,,"This mod increase 6 in attribute Perception.",,,,,,,,,,,,,,
+
+dcsModPerception7,item_modifiers,Mod,,,"Mod Perception + 7",,,,,,,,,,,,,,
+dcsModPerception7Desc,item_modifiers,Mod,,,"This mod increase 7 in attribute Perception.",,,,,,,,,,,,,,
+
+dcsModPerception8,item_modifiers,Mod,,,"Mod Perception + 8",,,,,,,,,,,,,,
+dcsModPerception8Desc,item_modifiers,Mod,,,"This mod increase 8 in attribute Perception.",,,,,,,,,,,,,,
+
+dcsModPerception9,item_modifiers,Mod,,,"Mod Perception + 9",,,,,,,,,,,,,,
+dcsModPerception9Desc,item_modifiers,Mod,,,"This mod increase 9 in attribute Perception.",,,,,,,,,,,,,,

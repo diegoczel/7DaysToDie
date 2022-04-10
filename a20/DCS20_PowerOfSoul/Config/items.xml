@@ -1,0 +1,14 @@
+<dcs>
+  <append xpath="/items">
+    <item name="dcsSoul">
+      <property name="CustomIcon" value="dcsSoul"/>
+      <!--<property name="ItemTypeIcon" value="treasure"/>-->
+      <property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+      <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+      <property name="Material" value="Mglass"/>
+      <property name="Stacknumber" value="10000"/>
+      <property name="SellableToTrader" value="true"/>
+      <property name="Group" value="Resources"/>
+    </item>
+  </append>
+</dcs>

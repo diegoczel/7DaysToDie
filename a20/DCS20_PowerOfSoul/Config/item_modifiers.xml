@@ -1,0 +1,514 @@
+<dcs>
+
+	<append xpath="/item_modifiers"> <!-- BEGIN  Strength -->
+	
+		<item_modifier name="dcsModStrength1" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModStrength1"/>
+			<property name="EconomicValue" value="300"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attStrength" operation="base_add" value="1"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModStrength2" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModStrength2"/>
+			<property name="EconomicValue" value="600"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attStrength" operation="base_add" value="2"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModStrength3" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModStrength3"/>
+			<property name="EconomicValue" value="900"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attStrength" operation="base_add" value="3"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModStrength4" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModStrength4"/>
+			<property name="EconomicValue" value="1200"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attStrength" operation="base_add" value="4"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModStrength5" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModStrength5"/>
+			<property name="EconomicValue" value="1500"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attStrength" operation="base_add" value="5"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModStrength6" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModStrength6"/>
+			<property name="EconomicValue" value="1800"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attStrength" operation="base_add" value="6"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModStrength7" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModStrength7"/>
+			<property name="EconomicValue" value="2100"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attStrength" operation="base_add" value="7"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModStrength8" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModStrength8"/>
+			<property name="EconomicValue" value="2400"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attStrength" operation="base_add" value="8"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModStrength9" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModStrength9"/>
+			<property name="EconomicValue" value="2700"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attStrength" operation="base_add" value="9"/>
+			</effect_group>
+		</item_modifier>
+
+	</append> <!-- END  Strength -->
+
+	<append xpath="/item_modifiers"> <!-- BEGIN  Intellect -->
+		<item_modifier name="dcsModIntellect1" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModIntellect1"/>
+			<property name="EconomicValue" value="300"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attIntellect" operation="base_add" value="1"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModIntellect2" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModIntellect2"/>
+			<property name="EconomicValue" value="600"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attIntellect" operation="base_add" value="2"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModIntellect3" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModIntellect3"/>
+			<property name="EconomicValue" value="900"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attIntellect" operation="base_add" value="3"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModIntellect4" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModIntellect4"/>
+			<property name="EconomicValue" value="1200"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attIntellect" operation="base_add" value="4"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModIntellect5" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModIntellect5"/>
+			<property name="EconomicValue" value="1500"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attIntellect" operation="base_add" value="5"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModIntellect6" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModIntellect6"/>
+			<property name="EconomicValue" value="1800"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attIntellect" operation="base_add" value="6"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModIntellect7" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModIntellect7"/>
+			<property name="EconomicValue" value="2100"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attIntellect" operation="base_add" value="7"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModIntellect8" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModIntellect8"/>
+			<property name="EconomicValue" value="2400"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attIntellect" operation="base_add" value="8"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModIntellect9" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModIntellect9"/>
+			<property name="EconomicValue" value="2700"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attIntellect" operation="base_add" value="9"/>
+			</effect_group>
+		</item_modifier>
+
+	</append> <!-- END  Intellect -->
+
+	<append xpath="/item_modifiers"> <!-- BEGIN  Agility -->
+		<item_modifier name="dcsModAgility1" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModAgility1"/>
+			<property name="EconomicValue" value="300"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attAgility" operation="base_add" value="1"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModAgility2" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModAgility2"/>
+			<property name="EconomicValue" value="600"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attAgility" operation="base_add" value="2"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModAgility3" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModAgility3"/>
+			<property name="EconomicValue" value="900"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attAgility" operation="base_add" value="3"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModAgility4" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModAgility4"/>
+			<property name="EconomicValue" value="1200"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attAgility" operation="base_add" value="4"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModAgility5" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModAgility5"/>
+			<property name="EconomicValue" value="1500"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attAgility" operation="base_add" value="5"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModAgility6" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModAgility6"/>
+			<property name="EconomicValue" value="1800"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attAgility" operation="base_add" value="6"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModAgility7" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModAgility7"/>
+			<property name="EconomicValue" value="2100"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attAgility" operation="base_add" value="7"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModAgility8" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModAgility8"/>
+			<property name="EconomicValue" value="2400"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attAgility" operation="base_add" value="8"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModAgility9" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModAgility9"/>
+			<property name="EconomicValue" value="2700"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attAgility" operation="base_add" value="9"/>
+			</effect_group>
+		</item_modifier>
+
+	</append> <!-- END  Agility -->
+
+	<append xpath="/item_modifiers"> <!-- BEGIN  Fortitude -->
+		<item_modifier name="dcsModFortitude1" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModFortitude1"/>
+			<property name="EconomicValue" value="300"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attFortitude" operation="base_add" value="1"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModFortitude2" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModFortitude2"/>
+			<property name="EconomicValue" value="600"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attFortitude" operation="base_add" value="2"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModFortitude3" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModFortitude3"/>
+			<property name="EconomicValue" value="900"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attFortitude" operation="base_add" value="3"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModFortitude4" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModFortitude4"/>
+			<property name="EconomicValue" value="1200"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attFortitude" operation="base_add" value="4"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModFortitude5" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModFortitude5"/>
+			<property name="EconomicValue" value="1500"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attFortitude" operation="base_add" value="5"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModFortitude6" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModFortitude6"/>
+			<property name="EconomicValue" value="1800"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attFortitude" operation="base_add" value="6"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModFortitude7" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModFortitude7"/>
+			<property name="EconomicValue" value="2100"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attFortitude" operation="base_add" value="7"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModFortitude8" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModFortitude8"/>
+			<property name="EconomicValue" value="2400"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attFortitude" operation="base_add" value="8"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModFortitude9" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModFortitude9"/>
+			<property name="EconomicValue" value="2700"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attFortitude" operation="base_add" value="9"/>
+			</effect_group>
+		</item_modifier>
+
+	</append> <!-- END  Fortitude -->
+
+	<append xpath="/item_modifiers"> <!-- BEGIN  Perception -->
+		<item_modifier name="dcsModPerception1" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModPerception1"/>
+			<property name="EconomicValue" value="300"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attPerception" operation="base_add" value="1"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModPerception2" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModPerception2"/>
+			<property name="EconomicValue" value="600"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attPerception" operation="base_add" value="2"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModPerception3" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModPerception3"/>
+			<property name="EconomicValue" value="900"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attPerception" operation="base_add" value="3"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModPerception4" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModPerception4"/>
+			<property name="EconomicValue" value="1200"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attPerception" operation="base_add" value="4"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModPerception5" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModPerception5"/>
+			<property name="EconomicValue" value="1500"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attPerception" operation="base_add" value="5"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModPerception6" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModPerception6"/>
+			<property name="EconomicValue" value="1800"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attPerception" operation="base_add" value="6"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModPerception7" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModPerception7"/>
+			<property name="EconomicValue" value="2100"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attPerception" operation="base_add" value="7"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModPerception8" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModPerception8"/>
+			<property name="EconomicValue" value="2400"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attPerception" operation="base_add" value="8"/>
+			</effect_group>
+		</item_modifier>
+
+		<item_modifier name="dcsModPerception9" installable_tags="armor" modifier_tags="dcs" blocked_tags="noMods" type="attachment">
+			<property name="Stacknumber" value="1"/> 
+			<property name="Group" value="Mods"/>
+			<property name="CustomIcon" value="dcsModPerception9"/>
+			<property name="EconomicValue" value="2700"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<effect_group tiered="false">
+				<passive_effect name="AttributeLevel" tags="attPerception" operation="base_add" value="9"/>
+			</effect_group>
+		</item_modifier>
+
+	</append> <!-- END  Perception -->
+
+</dcs>

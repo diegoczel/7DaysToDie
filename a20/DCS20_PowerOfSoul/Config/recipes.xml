@@ -48,54 +48,63 @@
 		</recipe>
 
 		<recipe name="dcsModHealth2" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModHealth1" count="1"/>
 			<ingredient name="medicalBloodBag" count="1"/>
 			<ingredient name="resourceCropChrysanthemumPlant" count="5"/>
 			<ingredient name="dcsSoul" count="5"/>
 		</recipe>
 
 		<recipe name="dcsModHealth3" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModHealth2" count="1"/>
 			<ingredient name="medicalBloodBag" count="1"/>
 			<ingredient name="resourceCropChrysanthemumPlant" count="5"/>
 			<ingredient name="dcsSoul" count="5"/>
 		</recipe>
 
 		<recipe name="dcsModHealth4" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModHealth3" count="1"/>
 			<ingredient name="medicalBloodBag" count="2"/>
 			<ingredient name="resourceCropChrysanthemumPlant" count="5"/>
 			<ingredient name="dcsSoul" count="10"/>
 		</recipe>
 
 		<recipe name="dcsModHealth5" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModHealth4" count="1"/>
 			<ingredient name="medicalBloodBag" count="2"/>
 			<ingredient name="resourceCropChrysanthemumPlant" count="5"/>
 			<ingredient name="dcsSoul" count="10"/>
 		</recipe>
 
 		<recipe name="dcsModHealth6" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModHealth5" count="1"/>
 			<ingredient name="medicalBloodBag" count="2"/>
 			<ingredient name="resourceCropChrysanthemumPlant" count="5"/>
 			<ingredient name="dcsSoul" count="10"/>
 		</recipe>
 
 		<recipe name="dcsModHealth7" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModHealth6" count="1"/>
 			<ingredient name="medicalBloodBag" count="3"/>
 			<ingredient name="resourceCropChrysanthemumPlant" count="5"/>
 			<ingredient name="dcsSoul" count="15"/>
 		</recipe>
 
 		<recipe name="dcsModHealth8" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModHealth7" count="1"/>
 			<ingredient name="medicalBloodBag" count="3"/>
 			<ingredient name="resourceCropChrysanthemumPlant" count="5"/>
 			<ingredient name="dcsSoul" count="15"/>
 		</recipe>
 
 		<recipe name="dcsModHealth9" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModHealth8" count="1"/>
 			<ingredient name="medicalBloodBag" count="3"/>
 			<ingredient name="resourceCropChrysanthemumPlant" count="5"/>
 			<ingredient name="dcsSoul" count="15"/>
 		</recipe>
 
 		<recipe name="dcsModHealth10" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModHealth9" count="1"/>
 			<ingredient name="medicalBloodBag" count="3"/>
 			<ingredient name="resourceCropChrysanthemumPlant" count="5"/>
 			<ingredient name="dcsSoul" count="15"/>
@@ -111,46 +120,55 @@
 		</recipe>
 
 		<recipe name="dcsModStamina2" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModStamina1" count="1"/>
 			<ingredient name="resourceCropCoffeeBeans" count="1"/>
 			<ingredient name="dcsSoul" count="5"/>
 		</recipe>
 
 		<recipe name="dcsModStamina3" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModStamina2" count="1"/>
 			<ingredient name="resourceCropCoffeeBeans" count="1"/>
 			<ingredient name="dcsSoul" count="5"/>
 		</recipe>
 
 		<recipe name="dcsModStamina4" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModStamina3" count="1"/>
 			<ingredient name="resourceCropCoffeeBeans" count="2"/>
 			<ingredient name="dcsSoul" count="10"/>
 		</recipe>
 
 		<recipe name="dcsModStamina5" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModStamina4" count="1"/>
 			<ingredient name="resourceCropCoffeeBeans" count="2"/>
 			<ingredient name="dcsSoul" count="10"/>
 		</recipe>
 
 		<recipe name="dcsModStamina6" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModStamina5" count="1"/>
 			<ingredient name="resourceCropCoffeeBeans" count="2"/>
 			<ingredient name="dcsSoul" count="10"/>
 		</recipe>
 
 		<recipe name="dcsModStamina7" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModStamina6" count="1"/>
 			<ingredient name="resourceCropCoffeeBeans" count="3"/>
 			<ingredient name="dcsSoul" count="15"/>
 		</recipe>
 
 		<recipe name="dcsModStamina8" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModStamina7" count="1"/>
 			<ingredient name="resourceCropCoffeeBeans" count="3"/>
 			<ingredient name="dcsSoul" count="15"/>
 		</recipe>
 
 		<recipe name="dcsModStamina9" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModStamina8" count="1"/>
 			<ingredient name="resourceCropCoffeeBeans" count="3"/>
 			<ingredient name="dcsSoul" count="15"/>
 		</recipe>
 
 		<recipe name="dcsModStamina10" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench"> 
+			<ingredient name="dcsModStamina9" count="1"/>
 			<ingredient name="resourceCropCoffeeBeans" count="3"/>
 			<ingredient name="dcsSoul" count="15"/>
 		</recipe>
@@ -175,48 +193,56 @@
 		</recipe>
 
 		<recipe name="dcsModSuperGlasses2" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench">
+			<ingredient name="dcsModSuperGlasses1" count="1"/>
 			<ingredient name="casinoCoin" count="1000"/>
 			<ingredient name="resourceTestosteroneExtract" count="2"/>
 			<ingredient name="dcsSoul" count="15"/>
 		</recipe>
 
 		<recipe name="dcsModSuperGlasses3" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench">
+			<ingredient name="dcsModSuperGlasses2" count="1"/>
 			<ingredient name="casinoCoin" count="1000"/>
 			<ingredient name="resourceTestosteroneExtract" count="2"/>
 			<ingredient name="dcsSoul" count="20"/>
 		</recipe>
 
 		<recipe name="dcsModSuperGlasses4" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench">
+			<ingredient name="dcsModSuperGlasses3" count="1"/>
 			<ingredient name="casinoCoin" count="2000"/>
 			<ingredient name="resourceTestosteroneExtract" count="5"/>
 			<ingredient name="dcsSoul" count="25"/>
 		</recipe>
 
 		<recipe name="dcsModSuperGlasses5" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench">
+			<ingredient name="dcsModSuperGlasses4" count="1"/>
 			<ingredient name="casinoCoin" count="2000"/>
 			<ingredient name="resourceTestosteroneExtract" count="5"/>
 			<ingredient name="dcsSoul" count="30"/>
 		</recipe>
 
 		<recipe name="dcsModSuperGlasses6" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench">
+			<ingredient name="dcsModSuperGlasses5" count="1"/>
 			<ingredient name="casinoCoin" count="2000"/>
 			<ingredient name="resourceTestosteroneExtract" count="5"/>
 			<ingredient name="dcsSoul" count="35"/>
 		</recipe>
 
 		<recipe name="dcsModSuperGlasses7" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench">
+			<ingredient name="dcsModSuperGlasses6" count="1"/>
 			<ingredient name="casinoCoin" count="4000"/>
 			<ingredient name="resourceTestosteroneExtract" count="8"/>
 			<ingredient name="dcsSoul" count="40"/>
 		</recipe>
 
 		<recipe name="dcsModSuperGlasses8" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench">
+			<ingredient name="dcsModSuperGlasses7" count="1"/>
 			<ingredient name="casinoCoin" count="4000"/>
 			<ingredient name="resourceTestosteroneExtract" count="8"/>
 			<ingredient name="dcsSoul" count="45"/>
 		</recipe>
 
 		<recipe name="dcsModSuperGlasses9" count="1" craft_exp_gain="0" craft_time="60" craft_area="workbench">
+			<ingredient name="dcsModSuperGlasses8" count="1"/>
 			<ingredient name="casinoCoin" count="4000"/>
 			<ingredient name="resourceTestosteroneExtract" count="8"/>
 			<ingredient name="dcsSoul" count="50"/>
